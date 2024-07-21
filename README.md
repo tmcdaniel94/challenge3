@@ -20,4 +20,4 @@ This website was created using UT Bootcamp's starter code.
 
  ## Screenshot of Webpage
 
- ![Getting Started](./assets/images/screenshot.png)
+ ![Employee Payroll Tracker](./assets/images/screenshot.png)
