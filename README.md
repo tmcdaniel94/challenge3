@@ -9,14 +9,16 @@
  None
  
  ## Credit
-
-This website was created using UT Bootcamp's starter code.
+ 
+ This website was created using UT Bootcamp's starter code.
  
  ## License
  
  MIT
 
  ## Link to Live Site
+ 
+ https://tmcdaniel94.github.io/challenge3/
 
  ## Screenshot of Webpage
 
