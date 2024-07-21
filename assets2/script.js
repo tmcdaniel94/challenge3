@@ -57,7 +57,7 @@ const getRandomEmployee = function(employeesArray) {
   let winnerfirst = random1.firstName + ' ' + random1.lastName;
   console.log(random1);
   console.log('Congratulations to ' + winnerfirst + ', our random drawing winner!');
-}
+};
 
 
 /*
